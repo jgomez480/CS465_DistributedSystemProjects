@@ -4,6 +4,7 @@
 
 The repository holds the four projects for the Spring 2022 CS465 Distributed Systems class at Northern Arizona University.
 
+<br />
 
 ### Authors
 
@@ -15,6 +16,8 @@ Ethan Baranowski - *Developer*
 
 Tayler Skirvin - *Developer*
 
+<br />
+<br />
 
 The **ServerChat** directory contains the implementation of a server-based chat application in java.
 
