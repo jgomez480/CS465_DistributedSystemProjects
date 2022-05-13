@@ -2,7 +2,7 @@
 
 ## Distributed Systems projects for CS-465 class
 
-This is a github page to maintain and store projects given in Dr. Otte's Distributed Systems class
+The repository holds the projects for the CS465 Distributed Systems projects
 
 The **project_1** directory contains the implementation of a server-based chat application in java.
 
